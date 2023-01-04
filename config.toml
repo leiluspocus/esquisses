@@ -1,0 +1,36 @@
+baseURL = "https://esquisses.netlify.app/"
+languageCode = "fr-fr"
+title = "Esquisses"
+
+theme = "cactus"
+
+[params]
+  description = "Esquisses est mon bloc-notes des Internets, pensé en 2007 puis abandonné et repris vingt ans après. J'y liste toutes mes découvertes culturelles au cinéma, en bouquin pour ne pas les oublier!"
+  mainSectionTitle = "C'est tout chaud!"
+
+  [params.comments]
+    enabled = true
+
+disqusShortname = "esquisses" # cactus will use site title if not set
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "🏠"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Articles"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "A propos"
+url = "/a-propos"
+weight = 4
+
