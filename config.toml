@@ -5,7 +5,7 @@ title = "Esquisses"
 theme = "cactus"
 
 [params]
-  description = "Esquisses est mon bloc-notes des Internets, pensé en 2007 puis abandonné et repris vingt ans après. J'y liste toutes mes découvertes culturelles au cinéma, en bouquin pour ne pas les oublier!"
+  description = "Esquisses est mon carnet de culture des Internets, pensé en 2007 puis abandonné et repris vingt ans après. J'y liste toutes mes découvertes culturelles au cinéma, en bouquin pour ne pas les oublier!"
   mainSectionTitle = "C'est tout chaud!"
 
   [params.comments]
