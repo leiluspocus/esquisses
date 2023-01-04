@@ -1,6 +1,6 @@
 ---
 title: Joyland
-date: 2023-01-04T21:04:10.000Z
+date: 2023-01-04T11:04:10.000Z
 description: Palme d'or et QueerPalm 2022.
 category: Films
 tags:
