@@ -8,7 +8,7 @@ tags:
 ---
 
 
-![https://static.fnac-static.com/multimedia/Images/FR/NR/86/82/d0/13664902/1540-1/tsp20221210120841/Un-corps-pour-deux.jpg](https://static.fnac-static.com/multimedia/Images/FR/NR/86/82/d0/13664902/1540-1/tsp20221210120841/Un-corps-pour-deux.jpg)
+![Un corps pour deux](https://static.fnac-static.com/multimedia/Images/FR/NR/86/82/d0/13664902/1540-1/tsp20221210120841/Un-corps-pour-deux.jpg)
 
 _[Source Photo: Fnac](https://livre.fnac.com/a16129941/Florent-Sacre-Un-corps-pour-deux)_
 
