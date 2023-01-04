@@ -6,6 +6,7 @@ description: "Je finis l'année sur cette lecture simple mais prenante, à la
 category: Livres
 tags:
     - Cosy Mystery
+    - Drôle
 ---
 
 <img src="https://m.media-amazon.com/images/I/51TXlwfH7OL.jpg">
