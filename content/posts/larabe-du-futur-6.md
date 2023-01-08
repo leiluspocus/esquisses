@@ -2,9 +2,12 @@
 title: L'Arabe du Futur 6 - Riad Sattouf
 date: 2023-01-02T15:04:10.000Z
 description: La fin d'une série passionnante
+category: BD
 tags:
   - Autobiographie
   - Métissage
+  - Humour
+  - Drame
 ---
 
 ![L'arabe du Futur 6 - Une jeunesse au Moyen Orient (1994 - 2011)](https://static.fnac-static.com/multimedia/Images/FR/NR/20/8f/dd/14520096/1540-1/tsp20221210063239/L-Arabe-du-futur-Volume-6.jpg)

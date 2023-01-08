@@ -4,6 +4,7 @@ date: 2022-11-27T15:04:10.000Z
 description: On plonge en forêt dans une atmosphère apocalyptique dans ce
   livre... Prometteur à la lecture du résumé mais j'ai été un peu déçue par ma
   lecture.
+category: Livres
 tags:
   - Environnement
   - Effondrement

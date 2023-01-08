@@ -1,0 +1,12 @@
+#tag-cloud .tag-cloud-tags a:nth-child(even) {
+  font-size: 16px !important;
+}
+
+#tag-cloud .tag-cloud-tags a:nth-child(odd) {
+  font-size: 24px !important;
+}
+
+#tag-cloud .tag-cloud-tags a:hover {
+  background-color: #2bbc8a;
+  color: #fff;
+}
