@@ -3,7 +3,8 @@ title: Agatha Raisin - La Quiche Fatale, M.C. Beaton
 date: 2022-12-26T13:04:00.000Z
 description: "Je finis l'année sur cette lecture simple mais prenante, à la
   découverte d'un nouveau genre littéraire anglais: le \"cozy-mystery\". "
-category: Livres
+categories:
+- books
 tags:
     - Cosy Mystery
     - Humour

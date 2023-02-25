@@ -2,7 +2,8 @@
 title: Embarquements immédiats pour Noël - Carène Ponte
 date: 2023-01-04T11:04:10.000Z
 description: Ce roman cocooning retrace l'histoire de deux soeurs jumelles qui se retrouvent à échanger leurs destinations pour Noël par erreur !
-category: Livres
+categories:
+- books
 tags:
   - Noël
   - Humour

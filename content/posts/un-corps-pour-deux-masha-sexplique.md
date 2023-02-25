@@ -2,8 +2,10 @@
 title: Un corps pour deux - Roxane Bee, Florent Sacré, Masha Sexplique
 date: 2023-01-04T10:04:10.000Z
 description: On entre dans les pensées d'une jeune mère en plein accouchement. La suite pourrait vous surprendre !
-category: BD
+categories:
+- books
 tags:
+  - BD
   - Maternité
   - Post-partum
 ---

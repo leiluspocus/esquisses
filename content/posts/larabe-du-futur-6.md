@@ -2,8 +2,10 @@
 title: L'Arabe du Futur 6 - Riad Sattouf
 date: 2023-01-02T15:04:10.000Z
 description: La fin d'une série passionnante
-category: BD
+categories:
+- books
 tags:
+  - BD
   - Autobiographie
   - Métissage
   - Humour

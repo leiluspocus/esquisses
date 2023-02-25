@@ -2,7 +2,8 @@
 title: Joyland
 date: 2023-01-08T17:00:10.000Z
 description: Prix du jury "Un certain regard" à Cannes et QueerPalm 2022, Joyland est un film retraçant l'histoire d'amour entre un homme marié et une femme trans qui se rencontrent dans un cabaret érotique.
-category: Cinéma
+categories:
+- movies
 tags:
   - Queer
   - Religion
