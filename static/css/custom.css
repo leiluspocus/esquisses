@@ -10,3 +10,13 @@
   background-color: #2bbc8a;
   color: #fff;
 }
+
+#footer {
+  margin-bottom: 0px;
+  position: fixed;
+  bottom: 0;
+  background: white;
+  padding: 8px 16px;
+  max-width: 704px;
+  border-top: 1px solid #000;
+}

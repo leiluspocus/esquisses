@@ -16,7 +16,7 @@ googleAnalytics = "G-FDLKZ0DGX9"
   [params.comments]
     enabled = true
 
-disqusShortname = "esquisses" # cactus will use site title if not set
+disqusShortname = "esquisses-1" # cactus will use site title if not set
 
 # Main menu which appears below site header.
 [[menu.main]]
