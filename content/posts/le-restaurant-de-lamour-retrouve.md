@@ -13,6 +13,12 @@ tags:
 
 Le bookclub d'Isadora et Marisa m'a fait tomber en amour avec le genre japonais. Après [les délices de Tokyo](/posts/les-delices-de-tokyo), j'ai dégusté le premier roman d'Ito Ogawa: le restaurant de l'amour retrouvé.
 
+
+
+![Le restaurant de l'amour retrouvé - Ito OGAWA](https://static.fnac-static.com/multimedia/Images/FR/NR/bf/b6/60/6338239/1507-1/tsp20230113100729/Le-restaurant-de-l-amour-retrouve.jpg)
+
+_[(Source photo - Fnac)](https://www.fnac.com/a7777121/Ito-Ogawa-Le-restaurant-de-l-amour-retrouve)_
+
 ## Résumé
 
 Suite à sa rupture avec son petit ami, Rinko est sous le choc et devient muette. Elle retourne dans son village natal, auprès de sa mère avec qui elle a des relations un peu conflictuelles. Passionnée de cuisine, elle ouvre son premier restaurant assez spécial puisque sa cuisine semble avoir le pouvoir d'exaucer les souhaits des personnes qui la dégustent ...
