@@ -15,7 +15,7 @@ tags:
 
 [Source Photo - Allociné](https://www.allocine.fr/film/fichefilm_gen_cfilm=295626.html)
 
-XXX tombe d'un balcon après une soirée arrosée qui va le conduire à l'hôpital. A sa sortie, il décide de traverser la diagonale du vide à pied, en randonnée.
+Pierre, un écrivain épicurien et explorateur, tombe d'un balcon après une soirée arrosée qui va le conduire à l'hôpital. A sa sortie, il décide de traverser la diagonale du vide à pied, en randonnée.
 
 ## Mon humble avis
 
