@@ -1,7 +1,7 @@
 ---
 title: Perfect Days
 date: 2023-12-30T11:00:10.000Z
-description: Un biopic sur la vie du peintre Edward Munch
+description: Un film poétique sur les petites joies du quotidien
 categories:
 - movies
 tags:
