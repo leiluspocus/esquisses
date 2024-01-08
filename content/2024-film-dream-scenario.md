@@ -6,6 +6,7 @@ categories:
 - movies
 tags:
   - absurde
+  - loufoque
   - drôle
 ---
 
