@@ -34,7 +34,7 @@ J'ai été légèrement mal à l'aise au début par l'écart d'âge entre Izumi 
 
 Le livre aborde des thématiques engagées et importantes: le coming-out, de l'homoparentalité dans une société pas forcément ouverte au sujet, la question du genre ...
 
-Le personnage "du grand Boss" était aussi touchant.
+Le personnage "du grand Boss" était aussi touchant. Au cours de la lecture, on a le point de vue des différents membres de la famille, ce qui permet vraiment de compléter l'histoire.
 
 On passe à travers toutes sortes d'émotions dans ce livre: apaisement face à la description des paysages du Macchu Picchu, rires, larmes ... C'est une lecture que j'ai beaucoup apprécié malgré une fin douce-amère.
 
